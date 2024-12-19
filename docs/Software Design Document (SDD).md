@@ -12,7 +12,7 @@ This document provides a high-level overview of the design and architecture for 
 
 ## **2. System Overview**  
 
-The **User Dashboard** is a single-page web application (SPA) built using React.js. It provides an intuitive and responsive interface with a search functionality as its core feature. The system is designed to be scalable and easily maintainable.  
+The **User Dashboard** is a single-page web application (SPA) built using React.js. It provides an intuitive and responsive interface. The system is designed to be scalable and easily maintainable.  
 
 ---
 

@@ -4,12 +4,12 @@
 ---
 
 ## **1. Introduction**  
-The **User Dashboard** is a React-based application demonstrating search functionality and responsive UI design as part of a professional evaluation process.  
+The **User Dashboard** is a React-based application demonstrating responsive UI design as part of a professional evaluation process.  
 
 ---
 
 ## **2. Overall Description**  
-- **Purpose**: Serve as an interface for users to search and interact with data.  
+- **Purpose**: Serve as an interface for users to interact with data.  
 - **Technologies**: React, HTML, and CSS.  
 - **Users**:  
    - End Users  
@@ -18,16 +18,12 @@ The **User Dashboard** is a React-based application demonstrating search functio
 ---
 
 ## **3. Functional Requirements**  
-1. **Search Functionality**:  
-   - Input keywords.  
-   - Display filtered results.  
-   - Handle empty/invalid inputs.  
-2. **Responsive UI**: Works across desktop and mobile devices.  
+1.**Responsive UI**: Works across desktop and mobile devices.  
 
 ---
 
 ## **4. Non-Functional Requirements**  
-- **Performance**: Fast load times and efficient search.  
+- **Performance**: Fast load times.  
 - **Usability**: Simple and intuitive design.  
 - **Scalability**: Future extensibility for features like filtering or sorting.  
 - **Compatibility**: Modern browser support.  
