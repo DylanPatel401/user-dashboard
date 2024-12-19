@@ -1,6 +1,6 @@
 
 import React, { useState, useEffect } from "react";
-import { fetchUsers, fetchUserActivities } from "../api/api.js";
+import { fetchUsers } from "../api/api.js";
 import UserProfile from "../components/userProfile.js"
 import "./Home.css";
 
